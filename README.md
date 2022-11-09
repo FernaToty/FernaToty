@@ -46,7 +46,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoalmendro)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernaToty)](https://github.com/anuraghazra/github-readme-stats)
   
 [twitter]: https://twitter.com/falmendro_
 [artstation]: https://www.artstation.com/fernandoalmendro
