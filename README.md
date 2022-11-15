@@ -10,7 +10,7 @@
 [<img align="left" alt="fernandoalmendro | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="fernandoalmendro | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
 [<img align="left" alt="fernandoalmendro | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
-[<img align="left" alt="fernandoalmendro | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][likedin]
+[<img align="left" alt="fernandoalmendro | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 
 
 <br>
