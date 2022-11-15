@@ -44,7 +44,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
 
-<img align="left" alt="C" width="30px" src="[https://img.icons8.com/color/344/icons8-aseprite-50.png"/>
+<img align="left" alt="C" width="30px" src="[https://img.icons8.com/color/344/aseprite-50.png"/>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
