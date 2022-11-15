@@ -48,7 +48,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/dusk/512/aseprite.png"/>
 
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/dusk/512/aseprite.png"/>
+
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
