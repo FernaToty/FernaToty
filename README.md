@@ -27,6 +27,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/dart.png"/>
 
+
 <br>
 <br>
 
@@ -45,7 +46,7 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
 
-<img align="left" alt="C" width="30px" src="[https://img.icons8.com/color/344/aseprite-50.png"/>
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/ios-filled/512/aseprite.png"/>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
