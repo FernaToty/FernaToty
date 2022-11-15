@@ -52,4 +52,4 @@
 [twitter]: https://twitter.com/falmendro_
 [artstation]: https://www.artstation.com/fernandoalmendro
 [discord]: https://discord.com/users/FernaToty#0560
-[instagram]: https://instagram.com/users/fernandoalmendro_
+[instagram]: https://www.instagram.com/users/fernandoalmendro_
