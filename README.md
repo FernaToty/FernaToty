@@ -55,4 +55,4 @@
 [twitter]: https://twitter.com/falmendro_
 [artstation]: https://www.artstation.com/fernandoalmendro
 [discord]: https://discord.com/users/FernaToty#0560
-[linkedin]: https://linkedin.com/users/Fernando Almendro Martí
+[linkedin]: https://www.linkedin.com/in/fernando-almendro-martí-4a1302247/
