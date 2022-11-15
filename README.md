@@ -10,6 +10,7 @@
 [<img align="left" alt="fernandoalmendro | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="fernandoalmendro | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
 [<img align="left" alt="fernandoalmendro | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
+[<img align="left" alt="fernandoalmendro | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][instagram]
 
 <br>
 <br>
@@ -51,3 +52,4 @@
 [twitter]: https://twitter.com/falmendro_
 [artstation]: https://www.artstation.com/fernandoalmendro
 [discord]: https://discord.com/users/FernaToty#0560
+[instagram]: https://instagram.com/users/fernandoalmendro_
