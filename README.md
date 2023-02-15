@@ -3,6 +3,7 @@
 - 🌱 Studying Videogame Design and Development at CITM(UPC).
 - ✈️ Looking to travel around the world.
 - 🕹️ Interested in getting an Internship in the video games industry.
+- ℹ️ Checkout my portfolio <a href="https://FernaToty.github.io/">here</a>!
 
 
 
